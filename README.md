@@ -14,7 +14,7 @@
 
 📧 E-mail -->  [enesfplt@gmail.com](mailto:enesfplt@gmail.com)
 
-📮 Linkedln -->  [Enes Polat](https://www.linkedin.com/in/huss-saab/)
+📮 Linkedln -->  [Enes Polat](https://www.linkedin.com/in/enes-polat-ba454420a/)
 
 ## **<< Programming Languages and Tools >>**
 
