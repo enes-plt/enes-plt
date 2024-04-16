@@ -16,7 +16,7 @@
 
 📮 Linkedln -->  [Enes Polat](https://www.linkedin.com/in/enesplt/)
 
-## **<< Programming Languages and Tools >>**
+## **<< Programming Languages and Tools/Platforms >>**
 
 <code><img alt="Static Badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=blue"></code>
 <code><img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=yellow&labelColor=black&color=blue"></code>
