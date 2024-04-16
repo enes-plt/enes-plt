@@ -12,7 +12,7 @@
 
 ## **<< Contact >>**
 
-📧 E-mail -->  enesfplt@gmail.com
+📧 E-mail -->  [enesfplt@gmail.com](mailto:enesfplt@gmail.com)
 
 📮 Linkedln -->  [Enes Polat](https://www.linkedin.com/in/huss-saab/)
 
