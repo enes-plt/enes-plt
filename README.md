@@ -1,6 +1,6 @@
 # 👋 Hello There
  
- 🌊 I'm Enes, a motivated computer science student at Toronto Metropolitan University. I'm eager to dive into the fascinating realm of technology and excited to share my experiences with you 
+• 🌊 I'm Enes, a motivated computer science student at Toronto Metropolitan University. I'm eager to dive into the fascinating realm of technology and excited to share my experiences with you 
 
 ## **<< About Me >>**
 
