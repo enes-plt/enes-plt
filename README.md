@@ -1,20 +1,20 @@
-  # 👋 Hello There
+# 👋 Hello There
  
  🌊 I'm Enes, a motivated computer science student at Toronto Metropolitan University. I'm eager to dive into the fascinating realm of technology and excited to share my experiences with you 
 
- ## **<< About Me >>**
+## **<< About Me >>**
 
-💻 Computer Science Student at Toronto Metropolitan University
+• 💻 Computer Science Student at Toronto Metropolitan University
 
-🌴 I enjoy walking in parks and coding
+• 🌴 I enjoy walking in parks and coding
  
-📈 Always eager to learn and develop new skills!
+• 📈 Always eager to learn and develop new skills!
 
 ## **<< Contact >>**
 
-📧 E-mail -->  [enesfplt@gmail.com](mailto:enesfplt@gmail.com)
+• 📧 E-mail -->  [enesfplt@gmail.com](mailto:enesfplt@gmail.com)
 
-📮 Linkedln -->  [Enes Polat](https://www.linkedin.com/in/enesplt/)
+• 📮 Linkedln -->  [Enes Polat](https://www.linkedin.com/in/enesplt/)
 
 ## **<< Programming Languages and Tools/Platforms >>**
 
