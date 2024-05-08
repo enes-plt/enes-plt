@@ -16,7 +16,6 @@
 <a href="https://www.linkedin.com/in/enesplt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-enesplt-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:enesfplt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enesfplt@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-
 ## 🛠 Programming Languages and Tools/Platforms
 
 <code><img alt="Static Badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=blue"></code>
