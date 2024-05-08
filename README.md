@@ -1,8 +1,11 @@
-# 👋 Hello There
+<h1 align="center">Hello There, I am Enes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Toronto+Metropolitan+University&center=true&width=500&height=50"></a>
+</p>
  
-• 🌊 I'm Enes, a motivated computer science student at Toronto Metropolitan University. I'm eager to dive into the fascinating realm of technology and excited to share my experiences with you 
+• 🌊 I'm eager to dive into the fascinating realm of technology and excited to share my experiences with you 
 
-## **<< About Me >>**
+## 📜 About Me
 
 • 💻 Computer Science Student at Toronto Metropolitan University
 
@@ -10,13 +13,13 @@
  
 • 📈 Always eager to learn and develop new skills!
 
-## **<< Contact >>**
+## 🤝🏻 Let's Connect
 
-• 📧 E-mail -->  [enesfplt@gmail.com](mailto:enesfplt@gmail.com)
+<a href="https://www.linkedin.com/in/enesplt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-enesplt-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:enesfplt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enesfplt@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-• 📮 Linkedln -->  [Enes Polat](https://www.linkedin.com/in/enesplt/)
 
-## **<< Programming Languages and Tools/Platforms >>**
+## 🛠 Programming Languages and Tools/Platforms
 
 <code><img alt="Static Badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=blue"></code>
 <code><img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=yellow&labelColor=black&color=blue"></code>
