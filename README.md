@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Toronto+Metropolitan+University&center=true&width=500&height=50"></a>
 </p>
  
-• 🌊 I'm eager to dive into the fascinating realm of technology and excited to share my experiences with you 
+• 🌊 Let's dive into the fascinating realm of technology
 
 ## 📜 About Me
 
@@ -11,7 +11,7 @@
 
 • 🌴 I enjoy walking in parks, reading and coding
  
-• 📈 Always eager to learn and develop new skills!
+• 📈 Always eager to learn and develop new skills
 
 ## 🤝🏻 Let's Connect
 
