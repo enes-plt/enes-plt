@@ -13,8 +13,9 @@
 
 ## 🤝🏻 Let's Connect
 
-<a href="https://www.linkedin.com/in/enesplt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-enesplt-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:enesfplt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enesfplt@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/enesplt/"><img alt="Static Badge" src="https://img.shields.io/badge/enesplt-black?style=flat&logo=linkedin&logoColor=blue&label=LinkedIn&labelColor=black&color=blue"></a>
+<a href="mailto:enesfplt@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/enesfplt%40gmail.com-black?style=flat&logo=gmail&logoColor=red&label=Email&labelColor=black&color=blue"></a>
+<a href="https://leetcode.com/u/Enes-plt/"><img alt="Static Badge" src="https://img.shields.io/badge/Enes--plt-black?style=flat&logo=leetcode&logoColor=orange&label=LeetCode&labelColor=black&color=blue"></a>
 
 ## 🛠 Programming Languages and Tools/Platforms
 
