@@ -16,6 +16,7 @@
 <a href="https://www.linkedin.com/in/enesplt/"><img alt="Static Badge" src="https://img.shields.io/badge/enesplt-black?style=flat&logo=linkedin&logoColor=blue&label=LinkedIn&labelColor=black&color=blue"></a>
 <a href="mailto:enesfplt@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/enesfplt%40gmail.com-black?style=flat&logo=gmail&logoColor=red&label=Email&labelColor=black&color=blue"></a>
 <a href="https://leetcode.com/u/Enes-plt/"><img alt="Static Badge" src="https://img.shields.io/badge/Enes--plt-black?style=flat&logo=leetcode&logoColor=orange&label=LeetCode&labelColor=black&color=blue"></a>
+<a href="https://www.hackerrank.com/profile/enes_plt"><img alt="Static Badge" src="https://img.shields.io/badge/enes_plt-blue?style=flat&logo=hackerrank&label=HackerRank&labelColor=black"></a>
 
 ## 🛠 Programming Languages and Tools/Platforms
 
