@@ -3,7 +3,7 @@
   <a href="https://github.com/enes-plt"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Toronto+Metropolitan+University&center=true&width=500&height=50"></a>
 </p>
 
-## 📜 About Me <img align="right" alt="Coding" width="260" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+## 📜 About Me <img align="right" alt="Coding" width="220" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 • 👨‍💻 Computer Science Student at Toronto Metropolitan University
 
