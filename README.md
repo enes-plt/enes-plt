@@ -21,7 +21,8 @@
 
 ## 🛠 Programming Languages and Tools/Platforms
 
-<code><img alt="Static Badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=blue"></code>
+<code><img alt="Static Badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black&labelColor=black&color=blue"></code>
+<code><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black&color=blue"></code>
 <code><img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=yellow&labelColor=black&color=blue"></code>
 <code><img alt="Static Badge" src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=black&color=blue"></code>
 <code><img alt="Static Badge" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=orange&labelColor=black&color=blue"></code>
