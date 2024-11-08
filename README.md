@@ -35,6 +35,7 @@
 <code><img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=yellow&labelColor=black&color=blue"></code>
 <code><img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black&color=blue"></code>
 <code><img alt="Static Badge" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=black&color=blue"></code>
+<code><img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=green&labelColor=black&color=blue"></code>
 
 
 <!---
