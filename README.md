@@ -19,7 +19,7 @@
 <!---<a href="https://leetcode.com/u/NS_PLT/"><img alt="Static Badge" src="https://img.shields.io/badge/NS--PLT-black?style=flat&logo=leetcode&logoColor=orange&label=LeetCode&labelColor=black&color=blue"></a>
 <a href="https://www.hackerrank.com/profile/NS_PLT"><img alt="Static Badge" src="https://img.shields.io/badge/NS_PLT-blue?style=flat&logo=hackerrank&label=HackerRank&labelColor=black"></a>--->
 
-## 🛠 Programming Languages and Tools/Platforms
+## 🛠 Languages and Frameworks/Tools
 
 <code><img alt="Static Badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black&labelColor=black&color=blue"></code>
 <code><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black&color=blue"></code>
