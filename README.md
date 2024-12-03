@@ -10,7 +10,7 @@
 
 • 🌴 I enjoy walking in parks, reading and coding
  
-• 📈 Always eager to learn and develop new skills
+• 📈 Constantly learning and developing my skills
 
 ## 🤝🏻 Let's Connect
 
