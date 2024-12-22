@@ -6,7 +6,7 @@
 ## 📜 About Me
 <img align="right" alt="Coding" width="200" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
-• 👨‍💻 Computer Science Student at Toronto Metropolitan University (formerly Ryerson)
+• 👨‍💻 Computer Science Student at Toronto Metropolitan University (formerly Ryerson University)
 
 • 🌴 I enjoy walking in parks, reading and coding
  
