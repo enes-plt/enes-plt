@@ -43,5 +43,8 @@
 <code><img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=blue&labelColor=black&color=blue"></code>
 <code><img alt="Django Badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=green&labelColor=black&color=blue"></code>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=enes-plt&theme=dark)](https://github.com/enes-plt)
+## 🏆 Overall Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enes-plt&theme=dark)](https://github.com/enes-plt)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enes-plt&count_private=true&show_icons=true&theme=dark&hide=prs&include_all_commits=true)](https://github.com/enes-plt)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enes-plt&layout=compact&theme=dark)](https://github.com/enes-plt)
