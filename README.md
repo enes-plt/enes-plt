@@ -46,5 +46,7 @@
 ## 🏆 Overall Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=enes-plt&theme=dark)](https://github.com/enes-plt)
+<!---
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enes-plt&count_private=true&show_icons=true&theme=dark&hide=prs&include_all_commits=true)](https://github.com/enes-plt)
+--->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enes-plt&layout=compact&theme=dark)](https://github.com/enes-plt)
