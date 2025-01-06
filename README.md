@@ -12,6 +12,10 @@
  
 • 📈 Constantly learning and developing my skills
 
+• 🌐 My Website -> [enespolat.ca](https://enespolat.ca/)
+
+• 📄 My Resume -> [My Resume](https://enespolat.ca/Enes_Polat_Resume.pdf)
+
 ## 🤝🏻 Let's Connect
 
 <a href="https://www.linkedin.com/in/enesplt/"><img alt="Static Badge" src="https://img.shields.io/badge/enesplt-black?style=flat&logo=linkedin&logoColor=blue&label=LinkedIn&labelColor=black&color=blue"></a>
