@@ -1,12 +1,12 @@
 <h1 align="center"> Hello World, I'm Enes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> !</h1>
 <p align="center">
-  <a href="https://github.com/enes-plt"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+Intern;Ontario+Power+Generation&center=true&width=500&height=50"></a>
+  <a href="https://github.com/enes-plt"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Ontario+Power+Generation&center=true&width=500&height=50"></a>
 </p>
 
 ## 📜 About Me
 <img align="right" alt="Coding" width="200" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
-• 👨‍💻 Data Analyst Intern at Ontario Power Generation (OPG)
+• 👨‍💻 Data Analyst at Ontario Power Generation (OPG)
 
 • 🌴 I enjoy walking in parks, reading and coding
  
