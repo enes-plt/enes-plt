@@ -6,7 +6,7 @@
 ## 📜 About Me
 <img align="right" alt="Coding" width="200" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
-• 👨‍💻 Data Analyst at Ontario Power Generation (OPG)
+• 👨‍💻 Data Analyst | Business Analyst at Ontario Power Generation (OPG)
 
 • 🌴 I enjoy walking in parks, reading and coding
  
